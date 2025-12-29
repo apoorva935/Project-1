@@ -1,2 +1,2 @@
-# Project-1
-Building some good stuff for this project 
+# Vibe Bites Delivery 
+"A Gen Z food delivery app based on moods."
